@@ -33,10 +33,10 @@ With millions of apps on the Play Store, businesses struggle to understand which
 - For games, prioritize feature richness over size constraints and focus on premium monetization.
 
 🔹 Business Impact & Insights on which these suggestions are based:
-1️⃣ Social & Communication- Users install these apps only when free and prefer medium-sized builds.
-2️⃣ Games & Family- Users are willing to pay for rich features and don’t mind large-sized apps.
-3️⃣ Productivity & Business- Despite high installs, users are reluctant to pay. They favor medium-sized free apps.
-4️⃣ Media & Creative- Paid adoption is low, but reviews strongly influence installs. App size has little effect.
-5️⃣ Travel & Utility- Paid adoption is weak. Users avoid huge apps, while reviews significantly drive installs.
+1️. Social & Communication- Users install these apps only when free and prefer medium-sized builds.
+2️. Games & Family- Users are willing to pay for rich features and don’t mind large-sized apps.
+3️. Productivity & Business- Despite high installs, users are reluctant to pay. They favor medium-sized free apps.
+4️. Media & Creative- Paid adoption is low, but reviews strongly influence installs. App size has little effect.
+5️. Travel & Utility- Paid adoption is weak. Users avoid huge apps, while reviews significantly drive installs.
 
 📸 Screenshot of Dashboard: https://github.com/khushi-jaiswal0723/Google-Play-Store-App-Analysis/blob/main/Google%20Play%20Store%20App%20Analysis.png
