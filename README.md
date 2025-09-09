@@ -39,4 +39,4 @@ With millions of apps on the Play Store, businesses struggle to understand which
 4️⃣ Media & Creative- Paid adoption is low, but reviews strongly influence installs. App size has little effect.
 5️⃣ Travel & Utility- Paid adoption is weak. Users avoid huge apps, while reviews significantly drive installs.
 
-📸 Screenshot of Dashboard: 
+📸 Screenshot of Dashboard: https://github.com/khushi-jaiswal0723/Google-Play-Store-App-Analysis/blob/main/Google%20Play%20Store%20App%20Analysis.png
